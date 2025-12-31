@@ -12,7 +12,5 @@ public class TipoVar {
         System.out.println("edad = " + edad);
         var sueldo = 5000.5F; // se infiere el tipo float
         var esCasado = false;
-        es casado = true;
-
     }
 }
